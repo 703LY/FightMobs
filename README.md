@@ -22,7 +22,6 @@ Every time an enemy is defeated, it will increment the eneies defeated count and
 <img src="ignoredokumscreenshot/BeachScene.png" width="400" alt="Beach Scene">
 
 ## Main Menu
-![Screenshot Description](ignoredokumscreenshot/HomeScene.png)
 <img src="ignoredokumscreenshot/HomeScene.png" width="400" alt="Home Scene">
 
 
