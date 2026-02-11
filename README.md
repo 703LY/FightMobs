@@ -5,8 +5,10 @@ This is the first level of the game after player clicked on the start button in 
 The target in level 1 is to collect 3 golds. Player can save their gold data and load it again.
 
 ![gif1](ignoredokumscreenshot/docs/level1_1.gif)
-![Screenshot Description](ignoredokumscreenshot/ssLevel1Unity.png)
-![Screenshot Description](ignoredokumscreenshot/GardenScene.png)
+
+<img src="ignoredokumscreenshot/ssLevel1Unity.png" width="400" alt="Lvl 1">
+<img src="ignoredokumscreenshot/GardenScene.png" width="400" alt="Garden Scene">
+
 ![gif1](ignoredokumscreenshot/docs/level1_3.gif)
 
 ## Beach Scene
@@ -14,11 +16,14 @@ This is the level 2 - Beach. The main goal is to defeat 3 enemies and then playe
 Every time an enemy is defeated, it will increment the eneies defeated count and display it on the UI panel on the top right corner. There's also player's health info and currentMob's health info.
 
 ![gif1](ignoredokumscreenshot/docs/level2_1.gif)
+
 ![gif1](ignoredokumscreenshot/docs/level2_2.gif)
-![Screenshot Description](ignoredokumscreenshot/BeachScene.png)
+
+<img src="ignoredokumscreenshot/BeachScene.png" width="400" alt="Beach Scene">
 
 ## Main Menu
 ![Screenshot Description](ignoredokumscreenshot/HomeScene.png)
+<img src="ignoredokumscreenshot/HomeScene.png" width="400" alt="Home Scene">
 
 
 ## Assets Credits
