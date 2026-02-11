@@ -1,22 +1,28 @@
-# Finals - Game Programming LC01
+# Adventure - Gather and Fight
 
 ## Garden Scene
-This is the first level of our game after player clicked on the start button in main scene. We have a main camera which follows the player.
-The target is to collect 3 golds. Player can save their gold data and load it again.
-Below is the unity level design and he screenshot of the game's build.
+This is the first level of the game after player clicked on the start button in main scene. A main camera follows the player.
+The target in level 1 is to collect 3 golds. Player can save their gold data and load it again.
+
+![gif1](ignoredokumscreenshot/docs/level1_1.gif)
 ![Screenshot Description](ignoredokumscreenshot/ssLevel1Unity.png)
 ![Screenshot Description](ignoredokumscreenshot/GardenScene.png)
+![gif1](ignoredokumscreenshot/docs/level1_3.gif)
 
 ## Beach Scene
 This is the level 2 - Beach. The main goal is to defeat 3 enemies and then players can win the game.
 Every time an enemy is defeated, it will increment the eneies defeated count and display it on the UI panel on the top right corner. There's also player's health info and currentMob's health info.
+
+![gif1](ignoredokumscreenshot/docs/level2_1.gif)
+![gif1](ignoredokumscreenshot/docs/level2_2.gif)
 ![Screenshot Description](ignoredokumscreenshot/BeachScene.png)
-![Screenshot Description](ignoredokumscreenshot/PlayerWins.png)
 
 ## Main Menu
 ![Screenshot Description](ignoredokumscreenshot/HomeScene.png)
 
 
 ## Assets Credits
+I made the script and desinged the levels but did not make the artworks. Credit goes to these creators in itch.io, thankyou ^^:
 UI: https://cupnooble.itch.io/
+
 Game Assets: https://kenmi-art.itch.io/
